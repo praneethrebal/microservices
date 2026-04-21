@@ -8,7 +8,7 @@ public class Controller {
 	
 	@GetMapping("pro")
 	public String hello() {
-		return "hello";
+		return "Product Controller";
 	}
 
 }
